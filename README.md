@@ -25,7 +25,7 @@ In this project the author focuses on the following:
   * *What contributes to the price of a listing and how does it impact the price?*
 * Using standard industry data analys practices (CRISP-DM) answer these questions
 
-A blog post relating to this analysis can be found [here]()
+A blog post relating to this analysis can be found [here](https://medium.com/@tjrones23/how-to-airbnb-in-seattle-ba49c82fbfdb)
 ## File Descriptions <a name="files"></a>
 * Raw data of Airbnb listings (orginally sourced [here](https://www.kaggle.com/datasets/airbnb/seattle/version/1/metadata))
  * listings.csv
@@ -36,7 +36,7 @@ A blog post relating to this analysis can be found [here]()
  * Listing price modelling
  * Visualisations
 ## Results <a name="results"></a>
-The analysis provided answers the questions posed above. 
+The analysis provided answers to the questions posed above.  
 Based on this we can see that the most expensive period to visit Seattle is summer (specifically July). Prices peak again, relative to neighbouring months, in December. This is likely due to christmas holidays and new year.
 
 The most expensive listings by far are found in Belltown with an average price of $824. However, it should be noted that not a lot of data exists for this price range compared to other much cheaper neighbourhoods.
